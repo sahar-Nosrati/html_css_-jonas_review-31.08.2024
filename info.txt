@@ -1,0 +1,18 @@
+- index -> entry point to each website -> the first page of project -> index.html
+    - Deafualt name of the first page of any website 
+
+- HTML -> Hyper text markup language -> structure and describe the content of website  ->
+    - not programming language 
+
+- elements -> h1, p, h2, img, links, table etc 
+
+- element anatomy -> 
+    - opening tag 
+    - content
+    - closing tag 
+
+- semantig tag ->
+    - <strong></strong> -> Bol -> 
+        - non-semantic - > <b></b>
+    - <em></em> -> italic ->
+        - non-semantic -> <I></I>
